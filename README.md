@@ -12,3 +12,5 @@
 
 ## Fitness-AQA Dataset
 <p align="left"> <img src="imgs/exercise_dataset_hierarchy_3.png?raw=true" alt="fitness-aqa_dataset" width="800"/> </p>
+
+More details to follow.
