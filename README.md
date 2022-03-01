@@ -11,4 +11,4 @@
 <p align="left"> <img src="imgs/swapping_approach_2_1.png?raw=true" alt="pose_appearance_disentangling" width="400"/> </p>
 
 ## Fitness-AQA Dataset
-<p align="left"> <img src="imgs/exercise_dataset_hierarchy_3.png?raw=true" alt="fitness-aqa_dataset" width="400"/> </p>
+<p align="left"> <img src="imgs/exercise_dataset_hierarchy_3.png?raw=true" alt="fitness-aqa_dataset" width="800"/> </p>
