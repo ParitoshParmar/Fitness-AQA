@@ -16,4 +16,14 @@ Analyzing a person's posture during exercising is necessary to prevent injuries 
 ## Fitness-AQA Dataset
 <p align="left"> <img src="imgs/exercise_dataset_hierarchy_3.png?raw=true" alt="fitness-aqa_dataset" width="800"/> </p>
 
-More details to follow.
+Dataset available from: https://forms.gle/PbPTX1eVxGpa3QG88
+
+If you find our work useful, please consider citing:
+```
+@article{parmar2022domain,
+  title={Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment},
+  author={Parmar, Paritosh and Gharat, Amol and Rhodin, Helge},
+  journal={arXiv preprint arXiv:2202.14019},
+  year={2022}
+}
+```
