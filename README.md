@@ -16,7 +16,7 @@ Analyzing a person's posture during exercising is necessary to prevent injuries 
 ## Fitness-AQA Dataset
 <p align="left"> <img src="imgs/exercise_dataset_hierarchy_3.png?raw=true" alt="fitness-aqa_dataset" width="800"/> </p>
 
-Dataset available from: https://forms.gle/PbPTX1eVxGpa3QG88
+Dataset available from: https://forms.gle/PbPTX1eVxGpa3QG88. Please send us the request to access the dataset using this form.
 
 If you find our work useful, please consider citing:
 ```
