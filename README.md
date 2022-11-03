@@ -18,6 +18,8 @@ Analyzing a person's posture during exercising is necessary to prevent injuries 
 
 Dataset available from: https://forms.gle/PbPTX1eVxGpa3QG88. Please send us the request to access the dataset using this form. By requesting the dataset, you agree to the terms and conditions of usage. This dataset shall only be used for non-commercial purposes. 
 
+Please feel free to reach out to me if you have any questions or face any problems.
+
 If you find our work useful, please consider citing:
 ```
 @article{parmar2022domain,
