@@ -16,7 +16,7 @@ Analyzing a person's posture during exercising is necessary to prevent injuries 
 ## Fitness-AQA Dataset for Fine-grained Exercise Action Quality Assessment
 <p align="left"> <img src="imgs/exercise_dataset_hierarchy_3.png?raw=true" alt="fitness-aqa_dataset" width="800"/> </p>
 
-Dataset available from: https://forms.gle/PbPTX1eVxGpa3QG88. Please send us the request to access the dataset using this form. By requesting the dataset, you agree to the terms and conditions of usage. This dataset shall only be used for non-commercial purposes. 
+Dataset available from: https://forms.gle/PbPTX1eVxGpa3QG88. Please send us the request to access the dataset using this form. By requesting the dataset, you agree to the [terms and conditions of usage](https://github.com/ParitoshParmar/Fitness-AQA/blob/main/fitness_aqa_dataset_license.pdf). This dataset shall only be used for non-commercial purposes. 
 
 Please feel free to reach out to me if you have any questions or face any problems.
 
