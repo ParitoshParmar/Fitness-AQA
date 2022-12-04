@@ -6,7 +6,7 @@ Full paper: [Domain Knowledge-Informed Self-Supervised Representations for Worko
 2. [Our Self-Supervised Pose Contrastive Learning Approach for Fine-grained Action Assessment](https://github.com/ParitoshParmar/Fitness-AQA/edit/main/README.md#our-self-supervised-pose-contrastive-learning-approach-for-fine-grained-action-assessment)
 3. [Our Self-Supervised Motion Disentangling Approach for Fine-grained Action Assessment](https://github.com/ParitoshParmar/Fitness-AQA#our-self-supervised-motion-disentangling-approach-for-fine-grained-action-assessment)
 4. [Our Self-Supervised Pose and Appearance Disentangling Approach](https://github.com/ParitoshParmar/Fitness-AQA#our-self-supervised-pose-and-appearance-disentangling-approach)
-5. Our Method for Synchronizing In-the-Wild Videos
+5. [Our Method for Synchronizing In-the-Wild Videos](https://github.com/ParitoshParmar/Fitness-AQA/edit/main/README.md#our-method-for-synchronizing-in-the-wild-videos)
 6. [Fitness-AQA Dataset for Fine-grained Exercise Action Quality Assessment](https://github.com/ParitoshParmar/Fitness-AQA#fitness-aqa-dataset-for-fine-grained-exercise-action-quality-assessment)
 
 ## Introduction
@@ -20,6 +20,9 @@ Analyzing a person's posture during exercising is necessary to prevent injuries 
 
 ## Our Self-Supervised Pose and Appearance Disentangling Approach
 <p align="left"> <img src="imgs/swapping_approach_2_1.png?raw=true" alt="pose_appearance_disentangling" width="400"/> </p>
+
+## Our Method for Synchronizing In-the-Wild Videos
+<p align="left"> <img src="imgs/quasi_sync.PNG?raw=true" alt="video_quasi_syncing_technique" width="400"/> </p>
 
 ## Fitness-AQA Dataset for Fine-grained Exercise Action Quality Assessment
 <p align="left"> <img src="imgs/exercise_dataset_hierarchy_3.png?raw=true" alt="fitness-aqa_dataset" width="800"/> </p>
