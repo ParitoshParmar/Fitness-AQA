@@ -1,6 +1,14 @@
 # Fitness-AQA
 Full paper: [Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment](https://arxiv.org/abs/2202.14019)
 
+## Contents
+1. [Introduction](https://github.com/ParitoshParmar/Fitness-AQA/edit/main/README.md#introduction)
+2. [Our Self-Supervised Pose Contrastive Learning Approach for Fine-grained Action Assessment](https://github.com/ParitoshParmar/Fitness-AQA/edit/main/README.md#our-self-supervised-pose-contrastive-learning-approach-for-fine-grained-action-assessment)
+3. [Our Self-Supervised Motion Disentangling Approach for Fine-grained Action Assessment](https://github.com/ParitoshParmar/Fitness-AQA#our-self-supervised-motion-disentangling-approach-for-fine-grained-action-assessment)
+4. [Our Self-Supervised Pose and Appearance Disentangling Approach](https://github.com/ParitoshParmar/Fitness-AQA#our-self-supervised-pose-and-appearance-disentangling-approach)
+5. Our Method for Synchronizing In-the-Wild Videos
+6. [Fitness-AQA Dataset for Fine-grained Exercise Action Quality Assessment](https://github.com/ParitoshParmar/Fitness-AQA#fitness-aqa-dataset-for-fine-grained-exercise-action-quality-assessment)
+
 ## Introduction
 Analyzing a person's posture during exercising is necessary to prevent injuries and maximizing muscle mass gains. In this work, we present a computer vision-based approach to detect errors in workout form. Our approach is particularly applicable/useful in  real world gym scenarios, where off-the-shelf pose estimators fail to effectively capture person's pose due to challenging factors like camera recording angles, clothing styles, occlusions from gym equipment, etc. We applied our system to detect posture errors in three exercises: 1) BackSquat; 2) OverheadPress; and 3) BarbellRow. For this we collected the largest <b>fine-grained exercise action quality assessment</b> dataset, Fitness-AQA. Details on our self-supervised representation learning approaches and dataset are as follows:
 
