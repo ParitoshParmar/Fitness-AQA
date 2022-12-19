@@ -1,4 +1,4 @@
-# Fitness-AQA
+# Fitness-AQA (Fitness Action Quality Assessment)
 Full paper: [Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment](https://arxiv.org/abs/2202.14019)
 
 ## Contents
