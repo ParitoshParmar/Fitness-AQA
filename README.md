@@ -33,10 +33,12 @@ Please feel free to reach out to me if you have any questions or face any proble
 
 If you find our work useful, please consider citing:
 ```
-@article{parmar2022domain,
-  title={Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment},
+@inproceedings{parmar2022domain,
+  title={Domain Knowledge-Informed Self-supervised Representations for Workout Form Assessment},
   author={Parmar, Paritosh and Gharat, Amol and Rhodin, Helge},
-  journal={arXiv preprint arXiv:2202.14019},
-  year={2022}
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XXXVIII},
+  pages={105--123},
+  year={2022},
+  organization={Springer}
 }
 ```
