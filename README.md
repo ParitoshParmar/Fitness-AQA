@@ -1,4 +1,4 @@
-# Fitness-AQA (Fitness Action Quality Assessment)
+# Fitness-AQA (Fitness Action Quality Assessment) [ECCV'22]
 Full paper: [Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment](https://arxiv.org/abs/2202.14019)
 
 ## Contents
