@@ -1,5 +1,5 @@
 ## 📢 Announcement: Workshop on Action Quality Assessment at ICCV 2025! 📢
-**April 2025** 📢 📢 📢 We will be organizing **Workshop** on [*Skilled Activity Understanding, Assessment and Feedback Generation* (SAUAFG)](https://sauafg-workshop.github.io/) at **ICCV 2025!** More info on [SAUAFG Website](https://sauafg-workshop.github.io/). **Consider submitting your papers!** See you Honolulu, Hawaii!
+**April 2025** 📢 📢 📢 We will be organizing **Workshop** on [*Skilled Activity Understanding, Assessment and Feedback Generation* (SAUAFG)](https://sauafg-workshop.github.io/) at **ICCV 2025!** More info on [SAUAFG Website](https://sauafg-workshop.github.io/). **Consider submitting your papers!** See you in Honolulu, Hawaii!
 
 # Fitness-AQA (Fitness Action Quality Assessment) [ECCV'22]
 Full paper: [Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment](https://arxiv.org/abs/2202.14019)
