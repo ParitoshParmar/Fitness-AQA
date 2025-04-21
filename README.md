@@ -1,3 +1,6 @@
+## 📢 Announcement: Workshop on Action Quality Assessment at ICCV 2025! 📢
+**April 2025** 📢 📢 📢 We will be organizing **Workshop** on [*Skilled Activity Understanding, Assessment and Feedback Generation* (SAUAFG)](https://sauafg-workshop.github.io/) at **ICCV 2025!** More info on [SAUAFG Website](https://sauafg-workshop.github.io/). **Consider submitting your papers!** See you Honolulu, Hawaii!
+
 # Fitness-AQA (Fitness Action Quality Assessment) [ECCV'22]
 Full paper: [Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment](https://arxiv.org/abs/2202.14019)
 
@@ -45,6 +48,3 @@ If you find our work useful, please consider citing:
 
 ## 🚀 Also Check Out Our New Approach! 🚀
 **Oct 2024:** We have developed a new approach, [NeuroSymbolic AQA](https://arxiv.org/abs/2403.13798), that builds upon this approach, but also analyses and scores using **Professional Rules-based** programs. It is *Comprehensive* and *Explainable* AQA which can generate **Full Performance Reports** for *Actionable* Insights!!! We encourage you to checkout [[Code, Rules-based Programs, Dataset](https://github.com/laurenok24/NSAQA)] [[Demo](https://huggingface.co/spaces/X-NS/NSAQA)] [[Full Paper](https://arxiv.org/abs/2403.13798)]
-
-## 📢 Workshop on Action Quality Assessment at ICCV 2025! 📢
-**April 2025** 📢 📢 📢 We will be organizing **Workshop** on [*Skilled Activity Understanding, Assessment and Feedback Generation* (SAUAFG)](https://sauafg-workshop.github.io/) at **ICCV 2025!** More info on [SAUAFG Website](https://sauafg-workshop.github.io/). **Consider submitting your papers!** See you Honolulu, Hawaii!
