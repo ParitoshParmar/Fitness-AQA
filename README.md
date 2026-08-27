@@ -1,5 +1,4 @@
-## 📢 Announcement: Workshop on Action Quality Assessment at CVPR 2026! 📢
-**Jan 2026** 📢 📢 📢 We will be organizing **Workshop** on [*Skilled Activity Understanding, Assessment and Feedback Generation* (SAUAFG)](https://sauafg-workshop.github.io/) at **CVPR 2026!** More info on [SAUAFG Website](https://sauafg-workshop.github.io/). **Consider submitting your papers!** See you in Denver, Colorado!
+
 
 # Fitness-AQA (Fitness Action Quality Assessment) [ECCV'22]
 Full paper: [Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment](https://arxiv.org/abs/2202.14019)
